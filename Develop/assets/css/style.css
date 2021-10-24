@@ -7,6 +7,9 @@
 }
 
 
+/* end styling for entire page */
+
+
 /* body styling */
 
 .body-style {
@@ -60,9 +63,18 @@
 
 /* end header styling */
 
-p {
+
+/* small font size 16px styling */
+
+.small-text {
     font-size: 16px;
 }
+
+
+/* end of small font size 16px styling */
+
+
+/* hero styling */
 
 .hero {
     height: 800px;
@@ -72,6 +84,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+
+/* end of hero styling */
 
 .float-left {
     float: left;
