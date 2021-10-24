@@ -8,7 +8,7 @@ A digital marketing website
 * CSS
 
 ## Screenshot of website
-![Horiseon website](./assets/images/Horiseon.png?raw=true "Horiseon")
+![Horiseon website](Develop\assets\images\Horiseon.png "Horiseon")
 
 ## Website
 https://github.com/Kyle-G/Horiseon/
