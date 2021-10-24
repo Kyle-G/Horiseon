@@ -7,9 +7,6 @@
 }
 
 
-/* end styling for entire page */
-
-
 /* body styling */
 
 .body-style {
@@ -161,6 +158,9 @@
 
 /* end of benefit section */
 
+
+/* start of footer */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -171,3 +171,6 @@
 .footer h2 {
     font-size: 20px;
 }
+
+
+/* end of footer section */
