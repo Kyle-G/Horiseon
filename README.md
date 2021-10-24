@@ -7,6 +7,9 @@ A digital marketing website
 * HTML
 * CSS
 
+## Screenshot of website
+![Horiseon website](./assets/images/social-media-marketing.png?raw=true "Horiseon")
+
 ## Website
 https://github.com/Kyle-G/Horiseon/
 
