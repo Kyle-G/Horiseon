@@ -1,12 +1,23 @@
+/* styling for entire page */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
+
+/* body styling */
+
+.body-style {
     background-color: #d9dcd6;
 }
+
+
+/* end body styling */
+
+
+/* header styling */
 
 .header {
     padding: 20px;
@@ -24,7 +35,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,19 +43,22 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
+.header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
+
+
+/* end header styling */
 
 p {
     font-size: 16px;
